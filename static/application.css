@@ -173,3 +173,13 @@ textarea {
 	background:rgba(102,8,0,0.8);
 }
 
+#notice {
+	background: #000011;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	/* padding: 0px 5px; */
+	color: gray;
+
+}
